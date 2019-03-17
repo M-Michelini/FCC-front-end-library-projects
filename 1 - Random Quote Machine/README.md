@@ -13,10 +13,11 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ### Features
-- Async http request user axios.
-- Randomised transitions, fonts and quotes.
+- Async http request using axios to get a list of quotes.
+- Displays randomized fonts and quotes.
+- Random transition to next quote each time the quote is randomized.
 
-### Possible expansions
+### Possible updates
 This is a pretty small app, so there isn't a whole heap that can be added.
 but here's a few ideas I may come back to when I have nothing better to do.
 
@@ -24,7 +25,7 @@ but here's a few ideas I may come back to when I have nothing better to do.
 - Adjust font-sizes for each font to get them all approximately the same size.
 - Add some css media queeries to make more responsive.
 
-### About
+### User stories
 The following project is from the curriculum of [https://www.freecodecamp.org/]
 - User Story #1: I can see a wrapper element with a corresponding id="quote-box".
 - User Story #2: Within #quote-box, I can see an element with a corresponding id="text".

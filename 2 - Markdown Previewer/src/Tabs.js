@@ -15,7 +15,7 @@ export default class Tabs extends Component{
   constructor(props){
     super(props)
     this.state = {
-      tab:1
+      tab:0
     }
   }
 

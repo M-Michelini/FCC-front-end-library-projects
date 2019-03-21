@@ -1,0 +1,48 @@
+
+[
+  {
+    "label":"Hihat (closed)",
+    "url":"/accoustic/hat-closed.wav",
+    "key":"Q"
+  },
+  {
+    "label":"Hihat (open)",
+    "url":"/accoustic/hat-open.wav",
+    "key":"W"
+  },
+  {
+    "label":"Tamborine",
+    "url":"/accoustic/tamborine-hit.wav",
+    "key":"E"
+  },
+  {
+    "label":"Snare",
+    "url":"/accoustic/snare-center.wav",
+    "key":"A"
+  },
+  {
+    "label":"Rack Tom",
+    "url":"/accoustic/rack-tom-center.wav",
+    "key":"S"
+  },
+  {
+    "label":"Floor Tom",
+    "url":"/accoustic/floor-tom-center.wav",
+    "key":"D"
+  },
+  {
+    "label":"Kick",
+    "url":"/accoustic/kick.wav",
+    "key":"Z"
+  },
+  {
+    "label":"Ride cymbal",
+    "url":"/accoustic/ride-center.wav",
+    "key":"X"
+  },
+  {
+    "label":"Crash cymbal",
+    "url":"/accoustic/crash-edge.wav",
+    "key":"C"
+  }
+]

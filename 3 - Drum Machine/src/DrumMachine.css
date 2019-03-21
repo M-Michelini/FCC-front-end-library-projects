@@ -1,0 +1,25 @@
+#drum-pads{
+  height:360px;
+  width:360px;
+  margin:20px;
+  display:flex;
+  flex-wrap:wrap;
+  align-content: center;
+}
+.drum-pad{
+  width:100px;
+  height:100px;
+  background-color:white;
+  margin:10px;
+  text-align:center;
+  padding:0 10px;
+  font-weight:600;
+  border-radius:5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.drum-pad:active,.drum-pad-active{
+  background-color:rgb(205,225,255);
+  transform:scale(1.1);
+}
